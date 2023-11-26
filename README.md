@@ -1,6 +1,6 @@
-### Hi me chamo Elber 👋
+### Hi, me chamo Elber 👋
 
-Sobre mim
+Sobre
 - 💻 Sou desenvolvedor Front End..
 - 🎓 Formado em **Front-End** pelo Dev-Club...
 - 👨‍💻 Aperfeiçoando meus conhecimentos em Fullstack...
@@ -37,3 +37,5 @@ Sobre mim
 </div>
 
 ![Snake animation](https://github.com/Elber04726/Elber04726/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
