@@ -36,6 +36,8 @@ Sobre
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Elber04726/Elber04726/blob/output/github-contribution-grid-snake.svg)
+<div>
+"Adoro descobrir coisas novas e usar a tecnologia para criar soluções de alta qualidade para resolve-las"
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
