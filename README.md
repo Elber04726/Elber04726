@@ -8,27 +8,32 @@
 
 ### 🚀 Minhas skills:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://devicons.dev.br/icons?icon=HTML&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=CSS&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=JavaScript&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=React&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=TailwindCSS&size=48&theme=light&perline=1" />
+<img src="https://devicons.dev.br/icons?icon=StyledComponents&size=48&theme=light&perline=1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://devicons.dev.br/icons?icon=Github&size=48&theme=dark&perline=1"/>     
 </div>
 
 
 ### 👨‍💻 Aperfeiçoando:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://devicons.dev.br/icons?icon=NodeJS&size=48&theme=light&perline=1"/> 
+<img src="https://devicons.dev.br/icons?icon=ExpressJS&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=PostgreSQL&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=Firebase&size=48&theme=light&perline=1"/>
 </div>
 
 
 ### 🛠️ Ferramentas de desenvolvimento:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://devicons.dev.br/icons?icon=VSCode&size=48&theme=light&perline=1"/> 
+<img src="https://devicons.dev.br/icons?icon=Figma&size=48&theme=light&perline=1"/>
+<img src="https://devicons.dev.br/icons?icon=Vite&size=48&theme=light&perline=1"/>
 </div>
 
 
