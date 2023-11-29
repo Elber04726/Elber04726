@@ -16,8 +16,7 @@
 </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylecomponents/stylecomponents-original.svg" width="40" height="40"/>
-</div>
+
 
 
 ### 🛠️ Ferramentas de desenvolvimento:
