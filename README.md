@@ -18,6 +18,12 @@
 </div>
 
 
+### 👨‍💻 Aperfeiçoando:
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+</div>
+
 
 ### 🛠️ Ferramentas de desenvolvimento:
 <div>
