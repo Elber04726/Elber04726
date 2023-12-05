@@ -25,7 +25,6 @@
 <img src="https://devicons.dev.br/icons?icon=NodeJS&size=48&theme=light&perline=1"/> 
 <img src="https://devicons.dev.br/icons?icon=ExpressJS&size=48&theme=light&perline=1"/>
 <img src="https://devicons.dev.br/icons?icon=PostgreSQL&size=48&theme=light&perline=1"/>
-<img src="https://devicons.dev.br/icons?icon=Firebase&size=48&theme=light&perline=1"/>
 </div>
 
 
